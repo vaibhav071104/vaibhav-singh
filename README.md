@@ -71,10 +71,10 @@ Smart document parser + semantic search + AI-based highlight/tagging for academi
 
 ### 📬 Let’s Connect
 
-- [GitHub](https://github.com/vaibhav-singh)  
-- [LinkedIn](https://linkedin.com/in/vaibhav-singh)  
-- 📧 vaibhav.singh@email.com  
-- [Portfolio](https://your-site.dev)
+- [GitHub](https://github.com/vaibhav071104)  
+- [LinkedIn](www.linkedin.com/in/vaibhav-singh-0b41a1359)  
+- 📧 vaibhavnsingh07@email.com  
+
 
 ---
 
